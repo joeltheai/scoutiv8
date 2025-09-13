@@ -129,7 +129,7 @@ export default function Home() {
                 With over 15 years of professional scouting experience, Paul has evaluated talent for Premier League clubs and identified future stars before they broke through.
               </p>
               <p className="text-gray-300 mb-8">
-                Now he's bringing that same professional-grade analysis to everyday players who want an honest assessment of their abilities and a clear path to improvement.
+                Now he&apos;s bringing that same professional-grade analysis to everyday players who want an honest assessment of their abilities and a clear path to improvement.
               </p>
               <div className="space-y-4">
                 <div className="flex items-center">
@@ -255,7 +255,7 @@ export default function Home() {
             Ready to Discover Your True Potential?
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
-            Join hundreds of players who've already received their professional scout reports and started their improvement journey.
+            Join hundreds of players who&apos;ve already received their professional scout reports and started their improvement journey.
           </p>
           <button className="bg-white text-blue-600 hover:bg-gray-100 px-8 py-4 rounded-lg text-lg font-semibold transition-colors">
             Start Your Assessment Today
